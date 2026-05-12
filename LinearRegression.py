@@ -1,4 +1,4 @@
-Regresyon ile sınıflandırma farkı nedir?
+Regresyon ile sınıflandırma farkı nedir?                                          #https://github.com/sametgumusaydin/data_mining-AI/blob/main/Data_mining_LinearRegression.ipynb
 
 -Regresyon ve sınıflandırma, denetimli öğrenme yöntemleri olup temel farkları çıktı türündedir.
 
